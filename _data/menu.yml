@@ -1,0 +1,56 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: 简介
+    entries:
+      - title: 关于光学、计算成像的笔记
+
+  - title: 最近的笔记
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: 更多笔记...
+      show_more_url: archive.html
+
+  - title: 傅里叶光学
+    post_list:
+      category: 傅里叶光学
+      limit: 5
+      show_more: true
+      show_more_text: 更多笔记...
+      show_more_url: f-optics-archive.html
+
+  - title: 几何光学
+    post_list:
+      category: 几何光学
+      limit: 5
+      show_more: true
+      show_more_text: 更多笔记...
+      show_more_url: g-optics-archive.html
+
+  - title: 机器学习
+    post_list:
+      category: 机器学习
+      limit: 5
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: ml-archive.html
+
+  - title: 计算机
+    post_list:
+      category: 计算机
+      limit: 5
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: computer-archive.html
+
+  - title: 教材与资料
+    post_list:
+      category: PDF
+      show_more: False
+
+  - title: 链接
+    post_list:
+      category: 链接
+      show_more: False
