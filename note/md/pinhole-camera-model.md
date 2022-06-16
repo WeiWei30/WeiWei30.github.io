@@ -1,4 +1,4 @@
-[reference](../files/camera-models.pdf)
+# 相机模型
 
 [toc]
 
@@ -291,7 +291,4 @@ $$
 u'=N_xx'+u_0=N_xm(r)x+u_0=N_xm(r)\frac{u-u_0}{N_x}+u_0=m(r)(u-u_0)+u_0=\\
 v'=m(r)(v-v_0)+v_0
 $$
-
-
-### 切向畸变
 
