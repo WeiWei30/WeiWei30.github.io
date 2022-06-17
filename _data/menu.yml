@@ -20,6 +20,14 @@ entries:
       show_more: true
       show_more_text: 更多笔记...
       show_more_url: f-optics-archive.html
+  
+  - title: 计算成像
+    post_list:
+      category: 计算成像
+      limit: 5
+      show_more: true
+      show_more_text: 更多笔记...
+      show_more_url: ci-archive.html
 
   - title: 几何光学
     post_list:
