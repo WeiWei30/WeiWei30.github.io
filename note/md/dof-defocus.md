@@ -18,4 +18,4 @@ $$
 $$
 {\rm DOF}=\frac{2\epsilon O}{mD}
 $$
-随着透镜孔径的增大，confusion变大、景深变短。
+随着透镜孔径的增大，confusion变大、景深变短。                              
